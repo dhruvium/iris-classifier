@@ -1,4 +1,4 @@
-# iris-classifier
+# Iris-classifier
 
 A beginner-friendly machine learning project that classifies Iris flowers into one of three species — **Setosa**, **Versicolor**, or **Virginica** — using sepal and petal measurements.
 
